@@ -20,8 +20,8 @@
             CARROZZA NUMERO: {{$train->carriage_number}}
         </div>
     </div>
-</section>
     @endforeach
+</section>
 @endsection
 
 
